@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://vbourgogne.github.io/index.html</loc>
+    <lastmod>2019-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/mirmande-crop-u201.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://vbourgogne.github.io/assets/cv_valentinbourgogne_2019.pdf</loc>
+    <lastmod>2019-02-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
