@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1550760044757">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1550761559655">
   <folder name="css">
     <file name="site_global.css" crc="3944327362"/>
     <file name="index.css" crc="3789631119" ref="index"/>
@@ -131,5 +131,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3858744554" seo="true" mt="1550760018305" redirect="true"/>
+  <file name="index.html" crc="3883828576" seo="true" mt="1550761548160" redirect="true"/>
 </manifest>
