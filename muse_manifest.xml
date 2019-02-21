@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1550758901413">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1550760044757">
   <folder name="css">
     <file name="site_global.css" crc="3944327362"/>
-    <file name="index.css" crc="76584956" ref="index"/>
+    <file name="index.css" crc="3789631119" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="cv_valentinbourgogne_2019.pdf" crc="16452938" seo="true" mt="1550659489000"/>
@@ -23,10 +23,32 @@
     <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u3198.jpg" crc="348774989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="jetnaut 3.jpg" crc="332116038" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7825-crop-u1522.jpg" crc="186937118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7829-crop-u2891.jpg" crc="334416388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7831-crop-u2911.jpg" crc="410424765" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye hack-crop-u2278.jpg" crc="3865059191" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vue grand angle v2-crop-u2318.jpg" crc="496357761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u3303.jpg" crc="234558753" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="forkdrift 0-crop-u978.jpg" crc="3909166667" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="forkdrift 1-crop-u3098.jpg" crc="3992093903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -42,7 +64,6 @@
     <file name="forkdrift 5-crop-u3178.jpg" crc="156085312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="jetnaut 0-crop-u1342.jpg" crc="4289567107" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -52,19 +73,7 @@
     <file name="jetnaut 2-crop-u2991.jpg" crc="3864280037" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jetnaut 3.jpg" crc="332116038" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="jetnaut 4-crop-u3031.jpg" crc="4234270486" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7825-crop-u1522.jpg" crc="186937118" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7829-crop-u2891.jpg" crc="334416388" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_7831-crop-u2911.jpg" crc="410424765" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="racana 0-crop-u1605.jpg" crc="3864770135" seo="true" ref="index">
@@ -91,13 +100,7 @@
     <file name="eye hack sentinel-crop-u2258.jpg" crc="3791608034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eye hack-crop-u2278.jpg" crc="3865059191" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="eyehack_enviro1-crop-u2298.jpg" crc="346624039" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vue grand angle v2-crop-u2318.jpg" crc="496357761" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="osirun 0-crop-u1864.jpg" crc="3814678474" seo="true" ref="index">
@@ -127,9 +130,6 @@
     <file name="enlist today 4-crop-u2845.jpg" crc="4237108455" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u3303.jpg" crc="234558753" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4118945269" seo="true" mt="1550758880212" redirect="true"/>
+  <file name="index.html" crc="3858744554" seo="true" mt="1550760018305" redirect="true"/>
 </manifest>
