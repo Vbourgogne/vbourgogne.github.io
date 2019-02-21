@@ -1,10 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1550745487823">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1550757917315">
   <folder name="css">
     <file name="site_global.css" crc="3944327362"/>
-    <file name="index.css" crc="3949097371" ref="index"/>
+    <file name="index.css" crc="3839923185" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="cv_valentinbourgogne_2019.pdf" crc="16452938" seo="true" mt="1550659489000"/>
+    <file name="forkdrift_gddoc_valentinbourgogne.pdf" crc="3786763489" seo="true" mt="1550755485000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -84,19 +85,19 @@
     <file name="racana 5-crop-u2178.jpg" crc="4235741529" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="concept robot-crop-u1794.jpg" crc="62347026" seo="true" ref="index">
+    <file name="concept robot-crop-u1794.jpg" crc="3889830208" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eye hack sentinel-crop-u2258.jpg" crc="4108110072" seo="true" ref="index">
+    <file name="eye hack sentinel-crop-u2258.jpg" crc="3791608034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eye hack-crop-u2278.jpg" crc="4089382069" seo="true" ref="index">
+    <file name="eye hack-crop-u2278.jpg" crc="3865059191" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="eyehack_enviro1-crop-u2298.jpg" crc="4110843627" seo="true" ref="index">
+    <file name="eyehack_enviro1-crop-u2298.jpg" crc="346624039" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vue grand angle v2-crop-u2318.jpg" crc="487682511" seo="true" ref="index">
+    <file name="vue grand angle v2-crop-u2318.jpg" crc="496357761" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="osirun 0-crop-u1864.jpg" crc="3814678474" seo="true" ref="index">
@@ -130,5 +131,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3885115846" seo="true" mt="1550745443569" redirect="true"/>
+  <file name="index.html" crc="4215863651" seo="true" mt="1550757857617" redirect="true"/>
 </manifest>
