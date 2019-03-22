@@ -21,12 +21,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/jetnaut%200.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vbourgogne.github.io/images/jetnaut%201.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vbourgogne.github.io/images/jetnaut%202.jpg</image:loc>
     </image:image>
     <image:image>
@@ -34,6 +28,9 @@
     </image:image>
     <image:image>
       <image:loc>http://vbourgogne.github.io/images/jetnaut%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/jetnaut%200.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -51,13 +48,13 @@
       <image:loc>http://vbourgogne.github.io/images/forkdrift%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/forkdrift%203.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vbourgogne.github.io/images/forkdrift%204.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vbourgogne.github.io/images/forkdrift%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/forkdrift%203.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -78,6 +75,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://vbourgogne.github.io/images/jetnaut%201.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://vbourgogne.github.io/images/racana%2023122x1757.jpg</image:loc>
     </image:image>
     <image:image>
@@ -86,6 +86,51 @@
     <image:image>
       <image:loc>http://vbourgogne.github.io/images/racana%2022692x1514.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/forkdrift%203272x153.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/img_7831277x208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%204272x154.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/eye%20hack.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/osirun%202274x155.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/enlist%20today%204277x156.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/forkdrift%203274x154.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/img_7831275x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%204274x155.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/enlist%20today%204274x155.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/forkdrift%203267x151.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/img_7831257x193.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%204256x144.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/osirun%202256x145.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/enlist%20today%204256x145.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vbourgogne.github.io/me-contacter.html</loc>
@@ -93,13 +138,13 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/racana%2052127x1197.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/racana%20sansui.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/racana%205-crop-u19008.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/racana%20sansui-crop-u19008.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/racana%2051366x769.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/racana%20sansui1366x769.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -117,7 +162,7 @@
       <image:loc>http://vbourgogne.github.io/images/enlist%20today%203.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/enlist%20today%204.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/enlist%20today%204.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -132,13 +177,13 @@
       <image:loc>http://vbourgogne.github.io/images/osirun%201.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/osirun%202.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vbourgogne.github.io/images/osirun%203.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vbourgogne.github.io/images/osirun%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/osirun%202.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -189,13 +234,13 @@
       <image:loc>http://vbourgogne.github.io/images/racana%203.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/racana%204.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vbourgogne.github.io/images/racana%202701x394.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/racana%205701x394.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/racana%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%205.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -237,12 +282,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/jetnaut%200.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://vbourgogne.github.io/images/jetnaut%201.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vbourgogne.github.io/images/jetnaut%202.jpg</image:loc>
     </image:image>
     <image:image>
@@ -250,6 +289,9 @@
     </image:image>
     <image:image>
       <image:loc>http://vbourgogne.github.io/images/jetnaut%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/jetnaut%200.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -267,13 +309,13 @@
       <image:loc>http://vbourgogne.github.io/images/forkdrift%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/forkdrift%203.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vbourgogne.github.io/images/forkdrift%204.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vbourgogne.github.io/images/forkdrift%205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/forkdrift%203.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -291,7 +333,7 @@
       <image:loc>http://vbourgogne.github.io/images/enlist%20today%203.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/enlist%20today%204.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/enlist%20today%204.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -299,6 +341,27 @@
     <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/jetnaut%201.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/eye%20hack.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/img_7831262x197.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%204262x148.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/img_7831264x199.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%204266x150.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/img_7831231x168.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://vbourgogne.github.io/contact-me.html</loc>
@@ -306,7 +369,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/racana%205-crop-u22902.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/racana%20sansui.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%20sansui-crop-u22902.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -321,13 +387,13 @@
       <image:loc>http://vbourgogne.github.io/images/osirun%201.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/osirun%202.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://vbourgogne.github.io/images/osirun%203.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://vbourgogne.github.io/images/osirun%204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/osirun%202.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -345,7 +411,10 @@
       <image:loc>http://vbourgogne.github.io/images/racana%203.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://vbourgogne.github.io/images/racana%204.jpg</image:loc>
+      <image:loc>http://vbourgogne.github.io/images/racana%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://vbourgogne.github.io/images/racana%205.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -416,19 +485,19 @@
   </url>
   <url>
     <loc>http://vbourgogne.github.io/assets/cv_valentinbourgogne_2019_en.pdf</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vbourgogne.github.io/assets/cv_valentinbourgogne_2019_fr.pdf</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vbourgogne.github.io/assets/grp16_forkdrift_gddoc.pdf</loc>
-    <lastmod>2019-03-03</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
