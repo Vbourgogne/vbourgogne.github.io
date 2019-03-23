@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://vbourgogne.github.io/index.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -35,7 +35,7 @@
   </url>
   <url>
     <loc>http://vbourgogne.github.io/forkdriftfr.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -59,7 +59,7 @@
   </url>
   <url>
     <loc>http://vbourgogne.github.io/welcome.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://vbourgogne.github.io/me-contacter.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -296,7 +296,7 @@
   </url>
   <url>
     <loc>http://vbourgogne.github.io/forkdriften.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -365,7 +365,7 @@
   </url>
   <url>
     <loc>http://vbourgogne.github.io/contact-me.html</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -485,19 +485,19 @@
   </url>
   <url>
     <loc>http://vbourgogne.github.io/assets/cv_valentinbourgogne_2019_en.pdf</loc>
-    <lastmod>2019-03-11</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vbourgogne.github.io/assets/cv_valentinbourgogne_2019_fr.pdf</loc>
-    <lastmod>2019-02-15</lastmod>
+    <lastmod>2019-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://vbourgogne.github.io/assets/grp16_forkdrift_gddoc.pdf</loc>
-    <lastmod>2019-03-22</lastmod>
+    <lastmod>2019-03-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

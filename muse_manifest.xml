@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1553285606087">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vbourgogne.github.io" resolutions="1x" timestamp="1553344885443">
   <folder name="css">
-    <file name="site_global.css" crc="225795780"/>
-    <file name="index.css" crc="370187562" ref="index"/>
-    <file name="nomq_index.css" crc="267666147" ref="index"/>
-    <file name="me-contacter.css" crc="174840931" ref="me-contacter"/>
-    <file name="nomq_me-contacter.css" crc="144731008" ref="me-contacter"/>
+    <file name="site_global.css" crc="135332718"/>
+    <file name="index.css" crc="105015000" ref="index"/>
+    <file name="nomq_index.css" crc="400772452" ref="index"/>
+    <file name="me-contacter.css" crc="3834577976" ref="me-contacter"/>
+    <file name="nomq_me-contacter.css" crc="3975693304" ref="me-contacter"/>
     <file name="r_alisations.css" crc="421113554" ref="réalisations"/>
     <file name="nomq_r_alisations.css" crc="144454443" ref="réalisations"/>
     <file name="eye-hacken.css" crc="4063422087" ref="eye-hacken"/>
@@ -13,8 +13,8 @@
     <file name="nomq_racanafr.css" crc="4210543834" ref="racanafr"/>
     <file name="dump-n-bumpen.css" crc="3817877557" ref="dump-n-bumpen"/>
     <file name="nomq_dump-n-bumpen.css" crc="3909738839" ref="dump-n-bumpen"/>
-    <file name="forkdriften.css" crc="4086747287" ref="forkdriften"/>
-    <file name="nomq_forkdriften.css" crc="338206623" ref="forkdriften"/>
+    <file name="forkdriften.css" crc="4266973278" ref="forkdriften"/>
+    <file name="nomq_forkdriften.css" crc="3912211020" ref="forkdriften"/>
     <file name="eye-hackfr.css" crc="3811307978" ref="eye-hackfr"/>
     <file name="nomq_eye-hackfr.css" crc="4088182928" ref="eye-hackfr"/>
     <file name="osirunfr.css" crc="374064949" ref="osirunfr"/>
@@ -23,18 +23,18 @@
     <file name="nomq_enlist-today-_en.css" crc="4155012876" ref="enlist-today-!en"/>
     <file name="enlist-today-_fr.css" crc="3886457745" ref="enlist-today-!fr"/>
     <file name="nomq_enlist-today-_fr.css" crc="531092568" ref="enlist-today-!fr"/>
-    <file name="forkdriftfr.css" crc="4216035135" ref="forkdriftfr"/>
-    <file name="nomq_forkdriftfr.css" crc="30861581" ref="forkdriftfr"/>
+    <file name="forkdriftfr.css" crc="4002619771" ref="forkdriftfr"/>
+    <file name="nomq_forkdriftfr.css" crc="269782602" ref="forkdriftfr"/>
     <file name="jetnauten.css" crc="3992998215" ref="jetnauten"/>
     <file name="nomq_jetnauten.css" crc="490831741" ref="jetnauten"/>
-    <file name="contact-me.css" crc="88507550" ref="contact-me"/>
-    <file name="nomq_contact-me.css" crc="362875037" ref="contact-me"/>
+    <file name="contact-me.css" crc="4232703065" ref="contact-me"/>
+    <file name="nomq_contact-me.css" crc="107994907" ref="contact-me"/>
     <file name="productions.css" crc="201351850" ref="productions"/>
     <file name="nomq_productions.css" crc="170752339" ref="productions"/>
     <file name="jetnautfr.css" crc="4202225255" ref="jetnautfr"/>
     <file name="nomq_jetnautfr.css" crc="117322382" ref="jetnautfr"/>
-    <file name="welcome.css" crc="80582438" ref="welcome"/>
-    <file name="nomq_welcome.css" crc="196442822" ref="welcome"/>
+    <file name="welcome.css" crc="4014441695" ref="welcome"/>
+    <file name="nomq_welcome.css" crc="427181231" ref="welcome"/>
     <file name="osirunen.css" crc="121285267" ref="osirunen"/>
     <file name="nomq_osirunen.css" crc="3783485167" ref="osirunen"/>
     <file name="dump-n-bumpfr.css" crc="523145102" ref="dump-n-bumpfr"/>
@@ -43,9 +43,9 @@
     <file name="nomq_racanaen.css" crc="3893924682" ref="racanaen"/>
   </folder>
   <folder name="assets">
-    <file name="grp16_forkdrift_gddoc.pdf" crc="3786763489" seo="true" mt="1553251810000"/>
-    <file name="cv_valentinbourgogne_2019_en.pdf" crc="266724383" seo="true" mt="1552325211000"/>
-    <file name="cv_valentinbourgogne_2019_fr.pdf" crc="16452938" seo="true" mt="1550247434000"/>
+    <file name="grp16_forkdrift_gddoc.pdf" crc="3786763489" seo="true" mt="1551632863000"/>
+    <file name="cv_valentinbourgogne_2019_en.pdf" crc="266724383" seo="true" mt="1553214966000"/>
+    <file name="cv_valentinbourgogne_2019_fr.pdf" crc="16452938" seo="true" mt="1553214949000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:réalisations:me-contacter:enlist-today-!fr:osirunfr:eye-hackfr:racanafr:dump-n-bumpfr:jetnautfr:forkdriftfr:welcome:productions:contact-me:forkdriften:jetnauten:dump-n-bumpen:racanaen:eye-hacken:osirunen:enlist-today-!en"/>
@@ -61,7 +61,7 @@
     <file name="require.js" crc="7928878" ref="index:réalisations:me-contacter:enlist-today-!fr:osirunfr:eye-hackfr:racanafr:dump-n-bumpfr:jetnautfr:forkdriftfr:welcome:productions:contact-me:forkdriften:jetnauten:dump-n-bumpen:racanaen:eye-hacken:osirunen:enlist-today-!en"/>
   </folder>
   <folder name="images">
-    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u3198.jpg" crc="297144414" seo="true" ref="index">
+    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u3198.jpg" crc="3832114797" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="forkdrift 0.jpg" crc="178145945" seo="true" ref="forkdriftfr:forkdriften">
@@ -71,12 +71,12 @@
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:réalisations:me-contacter:enlist-today-!fr:osirunfr:eye-hackfr:racanafr:dump-n-bumpfr:jetnautfr:forkdriftfr:welcome:productions:contact-me:forkdriften:jetnauten:dump-n-bumpen:racanaen:eye-hacken:osirunen:enlist-today-!en"/>
     <file name="forkdrift 1.jpg" crc="360657967" seo="true" ref="forkdriftfr:forkdriften">
@@ -86,12 +86,12 @@
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
     </file>
     <file name="forkdrift 2.jpg" crc="29816424" seo="true" ref="forkdriftfr:forkdriften">
       <caption webpage="index" alt=""/>
@@ -100,12 +100,12 @@
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
     </file>
     <file name="forkdrift 4.jpg" crc="482433823" seo="true" ref="forkdriftfr:forkdriften">
       <caption webpage="index" alt=""/>
@@ -114,12 +114,12 @@
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
     </file>
     <file name="forkdrift 5.jpg" crc="242088395" seo="true" ref="forkdriftfr:forkdriften">
       <caption webpage="index" alt=""/>
@@ -128,12 +128,12 @@
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriftfr" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
-      <caption webpage="forkdriften" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
       <caption webpage="forkdrift" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriften" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="enlist-today-!fr:osirunfr:eye-hackfr:racanafr:dump-n-bumpfr:jetnautfr:forkdriftfr:forkdriften:jetnauten:dump-n-bumpen:racanaen:eye-hacken:osirunen:enlist-today-!en"/>
     <file name="jetnaut 1.jpg" crc="3785957773" seo="true" ref="réalisations:productions">
@@ -457,16 +457,16 @@
     <file name="racana 22692x1514.jpg" crc="363804624" seo="true" ref="réalisations">
       <caption webpage="réalisations" alt=""/>
     </file>
-    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u31982.jpg" crc="375412999" seo="true" ref="index">
+    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u31982.jpg" crc="4017166657" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="capture d’écran 2019-02-19 à 232010 (1)2654x1487.jpg" crc="3773473968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u22712.jpg" crc="297144414" seo="true" ref="welcome">
+    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u22712.jpg" crc="3832114797" seo="true" ref="welcome">
       <caption webpage="welcome" alt=""/>
     </file>
-    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u227122.jpg" crc="375412999" seo="true" ref="welcome">
+    <file name="capture d’écran 2019-02-19 à 232010 (1)-crop-u227122.jpg" crc="4017166657" seo="true" ref="welcome">
       <caption webpage="welcome" alt=""/>
     </file>
     <file name="img_7825-crop-u23980.jpg" crc="186937118" seo="true" ref="dump-n-bumpen">
@@ -514,9 +514,6 @@
     <file name="vue grand angle v2-crop-u245233.jpg" crc="3965018701" seo="true" ref="eye-hacken">
       <caption webpage="eye-hacken" alt=""/>
     </file>
-    <file name="u844-32.png" crc="443027689" ref="index"/>
-    <file name="u844-322.png" crc="443027689" ref="index"/>
-    <file name="u844-323.png" crc="398880592" ref="index"/>
     <file name="u21590.png" crc="3877752929" ref="enlist-today-!fr"/>
     <file name="u21590-r.png" crc="3877752929" ref="enlist-today-!fr"/>
     <file name="u7526-58.png" crc="219656542" ref="enlist-today-!fr"/>
@@ -653,21 +650,18 @@
     <file name="u14319-553.png" crc="4153078433" ref="jetnautfr"/>
     <file name="u213683.png" crc="313018720" ref="jetnautfr"/>
     <file name="u21368-r3.png" crc="313018720" ref="jetnautfr"/>
-    <file name="u15739-59.png" crc="216538696" ref="forkdriftfr"/>
     <file name="forkdrift 3.png" crc="145373340" seo="true" ref="forkdriftfr:forkdriften">
-      <caption webpage="forkdriftfr" alt=""/>
-      <caption webpage="forkdriftfr" alt=""/>
-      <caption webpage="forkdriftfr" alt=""/>
       <caption webpage="forkdriften" alt=""/>
       <caption webpage="forkdriften" alt=""/>
       <caption webpage="forkdriften" alt=""/>
+      <caption webpage="forkdriftfr" alt=""/>
+      <caption webpage="forkdriftfr" alt=""/>
+      <caption webpage="forkdriftfr" alt=""/>
     </file>
     <file name="u21251.png" crc="3835993826" ref="forkdriftfr"/>
     <file name="u21251-r.png" crc="3835993826" ref="forkdriftfr"/>
-    <file name="u15739-592.png" crc="216538696" ref="forkdriftfr"/>
     <file name="u212512.png" crc="4061236312" ref="forkdriftfr"/>
     <file name="u21251-r2.png" crc="4061236312" ref="forkdriftfr"/>
-    <file name="u15739-593.png" crc="3832485095" ref="forkdriftfr"/>
     <file name="u212513.png" crc="4116646448" ref="forkdriftfr"/>
     <file name="u21251-r3.png" crc="4116646448" ref="forkdriftfr"/>
     <file name="u19480.png" crc="4242697115" ref="réalisations"/>
@@ -764,21 +758,15 @@
       <caption webpage="réalisations" alt=""/>
     </file>
     <file name="racana sansui.jpg" crc="231829362" seo="true" ref="me-contacter:contact-me">
-      <caption webpage="me-contacter" alt=""/>
       <caption webpage="contact-me" alt=""/>
+      <caption webpage="me-contacter" alt=""/>
     </file>
-    <file name="u18032-24.png" crc="89513165" ref="me-contacter"/>
     <file name="racana sansui-crop-u19008.jpg" crc="4133947369" seo="true" ref="me-contacter">
       <caption webpage="me-contacter" alt=""/>
     </file>
-    <file name="u18032-242.png" crc="3927042750" ref="me-contacter"/>
     <file name="racana sansui1366x769.jpg" crc="3776601972" seo="true" ref="me-contacter">
       <caption webpage="me-contacter" alt=""/>
     </file>
-    <file name="u18032-243.png" crc="4274759361" ref="me-contacter"/>
-    <file name="u22720-32.png" crc="4155112439" ref="welcome"/>
-    <file name="u22720-322.png" crc="4155112439" ref="welcome"/>
-    <file name="u22720-323.png" crc="532756368" ref="welcome"/>
     <file name="u22807.png" crc="517418062" ref="productions"/>
     <file name="u22807-r.png" crc="517418062" ref="productions"/>
     <file name="u22794.png" crc="4216134677" ref="productions"/>
@@ -836,19 +824,13 @@
     <file name="img_7831231x168.jpg" crc="145891727" seo="true" ref="productions">
       <caption webpage="productions" alt=""/>
     </file>
-    <file name="u22897-24.png" crc="196612783" ref="contact-me"/>
     <file name="racana sansui-crop-u22902.jpg" crc="4133947369" seo="true" ref="contact-me">
       <caption webpage="contact-me" alt=""/>
     </file>
-    <file name="u22897-242.png" crc="196612783" ref="contact-me"/>
-    <file name="u22897-243.png" crc="4216926809" ref="contact-me"/>
-    <file name="u23309-53.png" crc="3831017686" ref="forkdriften"/>
     <file name="u23302.png" crc="3897494927" ref="forkdriften"/>
     <file name="u23302-r.png" crc="3897494927" ref="forkdriften"/>
-    <file name="u23309-532.png" crc="3831017686" ref="forkdriften"/>
     <file name="u233022.png" crc="3897494927" ref="forkdriften"/>
     <file name="u23302-r2.png" crc="3897494927" ref="forkdriften"/>
-    <file name="u23309-533.png" crc="76403081" ref="forkdriften"/>
     <file name="u233023.png" crc="245256698" ref="forkdriften"/>
     <file name="u23302-r3.png" crc="245256698" ref="forkdriften"/>
     <file name="u23678.png" crc="63319051" ref="jetnauten"/>
@@ -941,21 +923,39 @@
     <file name="u25229-603.png" crc="123310434" ref="enlist-today-!en"/>
     <file name="u252253.png" crc="3946482473" ref="enlist-today-!en"/>
     <file name="u25225-r3.png" crc="3946482473" ref="enlist-today-!en"/>
+    <file name="u844-24.png" crc="3869207340" ref="index"/>
+    <file name="u844-242.png" crc="11507052" ref="index"/>
+    <file name="u844-243.png" crc="4179000110" ref="index"/>
+    <file name="u15739-56.png" crc="3772459231" ref="forkdriftfr"/>
+    <file name="u15739-562.png" crc="3772459231" ref="forkdriftfr"/>
+    <file name="u15739-563.png" crc="4294492552" ref="forkdriftfr"/>
+    <file name="u18032-14.png" crc="3905096245" ref="me-contacter"/>
+    <file name="u18032-142.png" crc="518729291" ref="me-contacter"/>
+    <file name="u18032-143.png" crc="400852308" ref="me-contacter"/>
+    <file name="u22720-25.png" crc="317032675" ref="welcome"/>
+    <file name="u22720-252.png" crc="317032675" ref="welcome"/>
+    <file name="u22720-253.png" crc="307853257" ref="welcome"/>
+    <file name="u22897-14.png" crc="4042805614" ref="contact-me"/>
+    <file name="u22897-142.png" crc="4042805614" ref="contact-me"/>
+    <file name="u22897-143.png" crc="172456101" ref="contact-me"/>
+    <file name="u23309-50.png" crc="4126116852" ref="forkdriften"/>
+    <file name="u23309-502.png" crc="4126116852" ref="forkdriften"/>
+    <file name="u23309-503.png" crc="313320247" ref="forkdriften"/>
   </folder>
-  <file name="index.html" crc="4158950080" seo="true" mt="1553285513140" redirect="true"/>
+  <file name="index.html" crc="4152444555" seo="true" mt="1553343530565" redirect="true"/>
   <file name="réalisations.html" crc="132232200" seo="true" mt="1553285210618" redirect="true"/>
-  <file name="me-contacter.html" crc="382098876" seo="true" mt="1553285467994" redirect="true"/>
+  <file name="me-contacter.html" crc="4057802403" seo="true" mt="1553344737758" redirect="true"/>
   <file name="enlist-today-!fr.html" crc="301709473" seo="true" mt="1553285361041" redirect="true"/>
   <file name="osirunfr.html" crc="4222062084" seo="true" mt="1553285345859" redirect="true"/>
   <file name="eye-hackfr.html" crc="4155473524" seo="true" mt="1553285332220" redirect="true"/>
   <file name="racanafr.html" crc="3820258382" seo="true" mt="1553285318774" redirect="true"/>
   <file name="dump-n-bumpfr.html" crc="504024040" seo="true" mt="1553285302761" redirect="true"/>
   <file name="jetnautfr.html" crc="294623198" seo="true" mt="1553285288212" redirect="true"/>
-  <file name="forkdriftfr.html" crc="4061544810" seo="true" mt="1553285272583" redirect="true"/>
-  <file name="welcome.html" crc="4179823611" seo="true" mt="1553285586284" redirect="true"/>
+  <file name="forkdriftfr.html" crc="488183063" seo="true" mt="1553343013336" redirect="true"/>
+  <file name="welcome.html" crc="3859457061" seo="true" mt="1553343772228" redirect="true"/>
   <file name="productions.html" crc="265365196" seo="true" mt="1553285220111" redirect="true"/>
-  <file name="contact-me.html" crc="444998206" seo="true" mt="1553285487963" redirect="true"/>
-  <file name="forkdriften.html" crc="4009483445" seo="true" mt="1553285281181" redirect="true"/>
+  <file name="contact-me.html" crc="4099919667" seo="true" mt="1553344575287" redirect="true"/>
+  <file name="forkdriften.html" crc="3845954095" seo="true" mt="1553343884877" redirect="true"/>
   <file name="jetnauten.html" crc="4076524997" seo="true" mt="1553285295299" redirect="true"/>
   <file name="dump-n-bumpen.html" crc="118069644" seo="true" mt="1553285310416" redirect="true"/>
   <file name="racanaen.html" crc="3991507244" seo="true" mt="1553285325957" redirect="true"/>
